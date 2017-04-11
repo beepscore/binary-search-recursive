@@ -4,7 +4,7 @@ import java.util.Arrays;
  * Created by stevebaker on 4/10/17.
  */
 
-// https:// www.youtube.com/watch?v=P3YID7liBug&index=26&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt
+// https:// www.youtube.com/watch?v=P3YID7liBug
 
 public class Solution {
 
